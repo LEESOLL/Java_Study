@@ -22,7 +22,7 @@ public class Main5_8 {
 					Q.offer(tmp);
 					tmp = null;
 					break;
-	c			}
+				}
 			}
 			if(tmp!=null) {
 				answer++;
