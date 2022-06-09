@@ -1,7 +1,7 @@
 package Section06;
 import java.util.*;
 
-public class Main1 {
+public class Main1 { //선택정렬
 	static int[] solution(int n, int[] arr) {
 		for(int i=0; i<n-1; i++) {
 			int idx = i;
